@@ -1,0 +1,42 @@
+Kayvon Spire
+Kspire@usc.edu
+
+
+Problem 1
+Part (a)
+1. Looking up information relevant to the course online.
+4. Asking the course staff for help.
+
+Part(b)
+1. gedit
+2. emacs
+3. Eclipse
+4. sublime
+5. Microsoft Visual Studio
+6. notepad
+
+Part(c)
+3. Students need to get an approval before submitting an assignment late.
+
+Part(d)
+2. Complete the online late submission form.
+
+
+Problem 2
+Part(a)
+1.Gitbash
+2.Terminal
+
+Part(b)
+1. git add hw1q2b.cpp
+   git commit -m "Homework 1 Question 2 Part b"
+2. git log     or     git log --pretty=oneline
+
+Part(c)
+git would commit all three staged files
+
+
+Problem 3
+Material Reviewed
+
+Problem 4
